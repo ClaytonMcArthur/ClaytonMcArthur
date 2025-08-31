@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Clayton McArthur 👋</h1>
 <p align="center">
-  CSSE @ University of Washington Bothell • President @TrickFireRobotics • Embedded systems, C/C++, ARM
+  CSSE (software engineer) @University of Washington Bothell • President @TrickFireRobotics • Embedded systems, C/C++, ARM
 </p>
 
 <p align="center">
