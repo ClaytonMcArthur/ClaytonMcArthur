@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Clayton McArthur 👋</h1>
 <p align="center">
-  CSSE @ University of Washington Bothell • President @ TrickFire Robotics • Embedded systems, C/C++, ARM
+  CSSE @ University of Washington Bothell • President @TrickFireRobotics • Embedded systems, C/C++, ARM
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ### About me
 - I build systems that bridge **hardware + software**: ARM Thumb‑2, I²C/SPI, PCB design, and C/C++ backends.
-- Leading 60+ teammates as **President @ TrickFire Robotics**, shipping cross‑disciplinary projects.
+- Leading 60+ teammates as **President @TrickFireRobotics**, shipping cross‑disciplinary projects.
 - Looking for roles where I can own problems end‑to‑end—from schematics & firmware to data & UX.
 
 ### Toolbox
