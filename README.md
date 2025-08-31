@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="mailto:claytonmcarthur2004@gmail.com" target="_blank">Email</a> ·
-  <a href="https://www.linkedin.com/in/clayton-mcarthur-90b5b232b/" target="_blank">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/clayton-mcarthur-90b5b232b/" target="_blank">LinkedIn</a>
 </p>
 
 ---
