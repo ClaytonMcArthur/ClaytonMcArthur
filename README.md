@@ -4,9 +4,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:claytonmcarthur2004@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/clayton-mcarthur/">LinkedIn</a> ·
-  <a href="https://github.com/ClaytonMcArthur">GitHub</a>
+  <a href="mailto:claytonmcarthur2004@gmail.com" target="_blank">Email</a> ·
+  <a href="https://www.linkedin.com/in/clayton-mcarthur/](https://www.linkedin.com/in/clayton-mcarthur-90b5b232b/)" target="_blank">LinkedIn</a> ·
+  <a href="https://github.com/ClaytonMcArthur" target="_blank">GitHub</a>
 </p>
 
 ---
@@ -43,5 +43,6 @@
 - Always learning control loops, embedded testing, and perf profiling.
 
 ### How to reach me
-- <a href="mailto:claytonmcarthur2004@gmail.com">Email</a>  
-- <a href="https://www.linkedin.com/in/clayton-mcarthur/">LinkedIn</a>
+- <a href="mailto:claytonmcarthur2004@gmail.com" target="_blank">Email</a>  
+- <a href="https://www.linkedin.com/in/clayton-mcarthur/](https://www.linkedin.com/in/clayton-mcarthur-90b5b232b/)" target="_blank">LinkedIn</a> ·
+
