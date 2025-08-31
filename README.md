@@ -43,5 +43,5 @@
 - Always learning control loops, embedded testing, and perf profiling.
 
 ### How to reach me
-- Email: <a href="mailto:claytonmcarthur2004@gmail.com">Email</a> ·  
-- LinkedIn: <a href="https://www.linkedin.com/in/clayton-mcarthur/">LinkedIn</a> ·
+- Email: <a href="mailto:claytonmcarthur2004@gmail.com">Email</a>  
+- LinkedIn: <a href="https://www.linkedin.com/in/clayton-mcarthur/">LinkedIn</a>
