@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Clayton McArthur 👋</h1>
 <p align="center">
-  CSSE @ University of Washington Bothell • President @trickfirerobotics • Embedded systems, C/C++, ARM
+  CSSE @ University of Washington Bothell • President @ TrickFire Robotics • Embedded systems, C/C++, ARM
 </p>
 
 <p align="center">
@@ -13,8 +13,8 @@
 
 ### About me
 - I build systems that bridge **hardware + software**: ARM Thumb‑2, I²C/SPI, PCB design, and C/C++ backends.
-- Leading 60+ teammates as **President @trickfirerobotics**, shipping cross‑disciplinary projects.
-- Looking for roles where I can own problems end‑to‑end from schematics & firmware to data & UX.
+- Leading 60+ teammates as **President @ TrickFire Robotics**, shipping cross‑disciplinary projects.
+- Looking for roles where I can own problems end‑to‑end—from schematics & firmware to data & UX.
 
 ### Toolbox
 **Languages:** C, C++, Python, C#, Java, SQL, ARM asm, JS/HTML/CSS  
@@ -25,23 +25,22 @@
 ---
 
 ## 📌 Pinned Projects
-> Update the links once the repos are public—these titles match my most‑active projects.
 
 | Repo | Stack | What it does |
 |---|---|---|
-| **TrickFire Cooling System** | Arduino Nano Every, Python (Jetson), KiCad, NMOS | Multi‑fan PWM controller with I²C host control, custom PCB, and closed‑loop temperature control. |
-| **ARM Thumb‑2 Mini Runtime** | ARM Cortex‑M4, Thumb‑2 asm, C | Bare‑metal buddy allocator + SVC syscalls (`malloc/free`, `signal/alarm`, string ops) with SysTick. |
-| **Sorting Benchmarks (C++)** | C++17 | Bubble/Insertion/Merge/Quick/Shell with timing harness, range‑limited BubbleSort, and averaged runs. |
-| **I²C Comms Demos** | C++/Arduino, Python | Host↔MCU I²C utilities and examples (register map, telemetry, and command sequencing). |
-| **BST Autocomplete** | C++ | Prefix search in BST with weights; returns top matches with stable ordering. |
-| **Graph Algorithms Toolkit** | C++ | BFS/DFS, Dijkstra, Prim/Kruskal with test cases and example graphs. |
+| **[Bee‑a‑Hero](https://github.com/ClaytonMcArthur/Bee-a-Hero)** | Full‑stack web (frontend + backend + DB) | Team web app that gamifies service tasks with user auth, profiles, and leaderboard‑style progress. |
+| **[Elementary‑School‑Database](https://github.com/ClaytonMcArthur/Elementary-School-Database)** | PostgreSQL, Python/Flask, SQLAlchemy | Relational schema + CRUD APIs and queries for students, classes, teachers, and attendance/reporting. |
+| **[TrickFire‑Cooling‑Project](https://github.com/ClaytonMcArthur/TrickFire-Cooling-Project)** | Arduino Nano Every, Python (Jetson), KiCad, NMOS | Multi‑fan PWM controller with I²C host control, custom PCB, and closed‑loop temperature logic. |
+| **[C‑Standard‑Library‑in‑Assembly](https://github.com/ClaytonMcArthur/C-Standard-Library-in-Assembly)** | ARM Cortex‑M4, Thumb‑2 asm, C | Bare‑metal buddy allocator + SVC syscalls (`malloc/free`, `signal/alarm`, string ops) driven by SysTick. |
+| **[Movies‑Project](https://github.com/ClaytonMcArthur/Movies-Project)** | C++17 | Command‑driven movie rental system with OOP design, genre‑specific sorting, and robust error handling. |
+| **[C‑‑Sorting‑Algorithm‑Implementation‑and‑Analysis](https://github.com/ClaytonMcArthur/C--Sorting-Algorithm-Implementation-and-Analysis)** | C++17 | Benchmarks Bubble/Insertion/Merge/Quick/Shell; timing harness, range‑limited BubbleSort, averaged runs. |
 
 ---
 
 ### What I'm working on
 - Hardening rover thermal and manipulator subsystems.  
 - Better dev ergonomics for student teams: docs, runbooks, and containerized tools.  
-- Always learning control loops, embedded testing, and perf profiling.
+- Always learning—control loops, embedded testing, and perf profiling.
 
 ### How to reach me
 - Email: **claytonmcarthur2004@gmail.com**  
@@ -49,4 +48,4 @@
 
 ---
 
-<sub>📌 Tip: To show real “Pinned” tiles on your profile, go to your GitHub profile → **Customize your pins** and select the repositories above.</sub>
+<sub>📌 Tip: To show real “Pinned” tiles on your profile, go to your GitHub profile → <b>Customize your pins</b> and select the repositories above.</sub>
