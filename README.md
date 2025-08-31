@@ -14,7 +14,7 @@
 ### About me
 - I build systems that bridge **hardware + software**: ARM Thumb‑2, I²C/SPI, PCB design, and C/C++ backends.
 - Leading 60+ teammates as **President @TrickFireRobotics**, shipping cross‑disciplinary projects.
-- Looking for roles where I can own problems end‑to‑end—from schematics & firmware to data & UX.
+- Looking for roles where I can own problems end‑to‑end from schematics & firmware to data & UX.
 
 ### Toolbox
 **Languages:** C, C++, Python, C#, Java, SQL, ARM asm, JS/HTML/CSS  
@@ -38,14 +38,10 @@
 ---
 
 ### What I'm working on
-- Hardening rover thermal and manipulator subsystems.  
+- Improving rover thermal and manipulator subsystems.  
 - Better dev ergonomics for student teams: docs, runbooks, and containerized tools.  
-- Always learning—control loops, embedded testing, and perf profiling.
+- Always learning control loops, embedded testing, and perf profiling.
 
 ### How to reach me
 - Email: **claytonmcarthur2004@gmail.com**  
 - LinkedIn: **/in/clayton-mcarthur/**
-
----
-
-<sub>📌 Tip: To show real “Pinned” tiles on your profile, go to your GitHub profile → <b>Customize your pins</b> and select the repositories above.</sub>
