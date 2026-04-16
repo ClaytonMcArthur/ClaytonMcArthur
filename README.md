@@ -30,7 +30,7 @@ I’m especially interested in opportunities involving:
 
 ## Toolbox
 **Languages:** C, C++, Python, C#, Java, SQL, ARM Assembly, JavaScript, HTML, CSS  
-**Platforms & Tools:** Linux, Docker, Git, GitHub, PostgreSQL, Node.js, React  
+**Platforms & Tools:** Linux, Docker, GCP, Git, GitHub, PostgreSQL, Node.js, React  
 **Embedded / EE:** KiCad, UART, I²C, SPI, microcontrollers, PCB design, oscilloscopes, logic analyzers  
 **Other:** Notion, Excel, Lucidchart
 
